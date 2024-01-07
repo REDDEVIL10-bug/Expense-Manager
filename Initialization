@@ -1,0 +1,9 @@
+Budget Manager
+
+echo "# Expense-Manager" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/REDDEVIL10-bug/Expense-Manager.git
+git push -u origin main
